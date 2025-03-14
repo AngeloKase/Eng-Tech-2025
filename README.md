@@ -1,2 +1,2 @@
 # Eng-Tech-2025
-Projeto tech primeiro semestre de engenharia da computação 
+Repositorio para execução do Projeto tech primeiro semestre do curso engenharia da computação 
